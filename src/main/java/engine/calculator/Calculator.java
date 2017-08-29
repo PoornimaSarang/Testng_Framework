@@ -21,4 +21,12 @@ public class Calculator {
     public int divide(int a, int b){
         return a / b;
     }
+
+    public Object[][] getData(){
+        return new Object[][]{
+                {1, 2, 3},
+                {4, 6, 10},
+                {7, 10, 17}
+        };
+    }
 }

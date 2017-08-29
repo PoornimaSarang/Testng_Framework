@@ -485,14 +485,18 @@ public class CalculatorTest {
         Assert.assertEquals(validate, addValue);
     }
 
-    @Test (groups = {"smoke"},dataProvider = "rangeWith2DArray")
+    @DataProvider(name = "rangeWith2DArray1")
+    public Object[][] rangeCalculator1() {
+        return test.getData();
+    }
+    @Test (groups = {"smoke"},dataProvider = "rangeWith2DArray1")
     public void addTest1(int num1, int num2, int validate)
     {
         int addValue = test.addition(num1, num2);
         Assert.assertEquals(validate, addValue);
     }
 
-    @Test (groups = {"smoke"},dataProvider = "rangeWith2DArray")
+    @Test (groups = {"smoke"},dataProvider = "rangeWith2DArray1")
     public void addTest2(int num1, int num2, int validate)
     {
         int addValue = test.addition(num1, num2);
