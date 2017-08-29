@@ -1,6 +1,6 @@
 <suite name="Suite">
 
-    <test name="Practice Grouping">
+    <test name="Practice Grouping" parallel="methods">
 
         <groups>
 
