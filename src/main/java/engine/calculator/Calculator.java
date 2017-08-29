@@ -26,7 +26,7 @@ public class Calculator {
         return new Object[][]{
                 {1, 2, 3},
                 {4, 6, 10},
-                {7, 10, 17}
+                {7, 10, 1}
         };
     }
 }

@@ -1,0 +1,47 @@
+{
+  "uid" : "ec23645f2646a473",
+  "name" : "addTest[4,6,10]",
+  "title" : "Add test [4,6,10]",
+  "time" : {
+    "start" : 1503992995916,
+    "stop" : 1503992995917,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "5a8e161e41943103",
+    "name" : "Gradle suite : Gradle test",
+    "title" : "Gradle suite : Gradle test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Gradle suite : Gradle test"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "host",
+    "value" : "Poornis-Mac-pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "42215@Poornis-Mac-pro.local.Test worker(11)"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-title",
+    "value" : "Gradle suite : Gradle test"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,64 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 942,
+        "passed" : 936,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 6,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1503992543690,
+        "stop" : 1503992996115,
+        "duration" : 452425
+      }
+    },
+    "defects" : {
+      "totalCount" : 2,
+      "items" : [ {
+        "count" : 4,
+        "uid" : "6a773001c73889d0",
+        "message" : "AssertionError: expected [17] but found [1]",
+        "status" : "FAILED"
+      }, {
+        "count" : 2,
+        "uid" : "b15b94382abb0c7a",
+        "message" : "AssertionError: expected [17] but found [18]",
+        "status" : "FAILED"
+      } ]
+    },
+    "xunit" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "uid" : "5a8e161e41943103",
+        "title" : "Gradle suite : Gradle test",
+        "statistic" : {
+          "total" : 942,
+          "passed" : 936,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 6,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "title" : "Without feature",
+        "statistic" : {
+          "total" : 942,
+          "passed" : 936,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 6,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

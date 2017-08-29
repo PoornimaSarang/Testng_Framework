@@ -10,11 +10,24 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="poc_main" />
-    <orderEntry type="library" name="Gradle: org.testng:testng:6.1.1" level="project" />
-    <orderEntry type="library" name="Gradle: junit:junit:3.8.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.testng:testng:6.8" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-testng-adaptor:1.4.24.RC2" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.10" level="project" />
     <orderEntry type="library" name="Gradle: org.beanshell:bsh:2.0b4" level="project" />
-    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.12" level="project" />
+    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.27" level="project" />
     <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.6" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-java-aspects:1.4.24.RC2" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-java-adaptor-api:1.4.24.RC2" level="project" />
+    <orderEntry type="library" name="Gradle: org.aspectj:aspectjrt:1.8.3" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-java-annotations:1.4.24.RC2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tika:tika-core:1.7" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-model:1.4.24.RC2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jvnet.jaxb2_commons:jaxb2-basics-runtime:0.9.3" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.properties:properties-loader:1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.12" level="project" />
+    <orderEntry type="library" name="Gradle: commons-beanutils:commons-beanutils-core:1.8.3" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.1.1" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="poc_main" />
 </module>
