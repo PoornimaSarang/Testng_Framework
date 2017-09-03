@@ -1,0 +1,44 @@
+{
+  "uid" : "7ab9e8e6e7c032dd",
+  "name" : "addTest1[4,6,10]",
+  "title" : "Add test 1 [4,6,10]",
+  "time" : {
+    "start" : 1504456318280,
+    "stop" : 1504456318280,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "bd71b788fb21df79",
+    "name" : "Gradle suite",
+    "title" : "Gradle suite"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "feature",
+    "value" : "Gradle test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "suite-name",
+    "value" : "Gradle suite"
+  } ],
+  "parameters" : [ ]
+}

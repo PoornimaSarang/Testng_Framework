@@ -3,29 +3,34 @@
   "plugins" : {
     "total" : {
       "statistic" : {
-        "total" : 471,
-        "passed" : 468,
+        "total" : 3455,
+        "passed" : 2464,
         "pending" : 0,
         "canceled" : 0,
-        "failed" : 3,
+        "failed" : 991,
         "broken" : 0
       },
       "time" : {
-        "start" : 1504455335510,
-        "stop" : 1504455336231,
-        "duration" : 721
+        "start" : 1504456317341,
+        "stop" : 1504456318774,
+        "duration" : 1433
       }
     },
     "defects" : {
-      "totalCount" : 2,
+      "totalCount" : 3,
       "items" : [ {
-        "count" : 2,
-        "uid" : "781cab04bd8cbddf",
+        "count" : 980,
+        "uid" : "7861186471ffff4",
         "message" : "AssertionError: expected [17] but found [1]",
         "status" : "FAILED"
       }, {
+        "count" : 10,
+        "uid" : "4a99b13878f39c18",
+        "message" : "AssertionError: expected [17] but found [10]",
+        "status" : "FAILED"
+      }, {
         "count" : 1,
-        "uid" : "adc6ad64aa9bb649",
+        "uid" : "f040fdd9ca947d35",
         "message" : "AssertionError: expected [17] but found [18]",
         "status" : "FAILED"
       } ]
@@ -33,14 +38,14 @@
     "xunit" : {
       "totalCount" : 1,
       "items" : [ {
-        "uid" : "56ca047af68e6b50",
+        "uid" : "bd71b788fb21df79",
         "title" : "Gradle suite",
         "statistic" : {
-          "total" : 471,
-          "passed" : 468,
+          "total" : 3455,
+          "passed" : 2464,
           "pending" : 0,
           "canceled" : 0,
-          "failed" : 3,
+          "failed" : 991,
           "broken" : 0
         }
       } ]
@@ -50,11 +55,11 @@
       "items" : [ {
         "title" : "Gradle test",
         "statistic" : {
-          "total" : 471,
-          "passed" : 468,
+          "total" : 3455,
+          "passed" : 2464,
           "pending" : 0,
           "canceled" : 0,
-          "failed" : 3,
+          "failed" : 991,
           "broken" : 0
         }
       } ]
