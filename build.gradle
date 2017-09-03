@@ -30,7 +30,10 @@ dependencies {
 }
 
 test {
-    useTestNG()
+    useTestNG() {
+        includeGroups 'smoke','smoke1'
+    }
+    ignoreFailures = true
 //    include '**/*Test*.*'
 //    testLogging.showStandardStreams = true
 }

@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec582a79-1c97-4e93-b66a-1d0a416914a5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/1dc35d25e61d819a9c357074014867ab.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/1e07e63bbecccb93b06ffd6b43b46e4d.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/25a32416abee198dd821b0b17a198a8f.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/3fb9611bab3151e965e023162e86089a.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/61aae920ab2f8fe604ba57b135aa9919.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/64b1e3c3d94863c86e92e89aea3a5c99.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/c8ddf1e5e5bf3682bc7bebf30f394148.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/d7c639084f684d66a1bc66855d193ed8.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/102c3ed8a2892d6f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/10723e552d376882-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/109f80bc24397a92-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/110e613974dcfe72-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/11925625584bfb81-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/11931aaa0cc32110-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/119e7ab76d64a443-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/12041f0d03f41688-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1271751901e09d2b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/13146a715d52b334-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/13183ca07a987ef0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/132e19dfce81f695-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1388adb8b94fb1c4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/13c926eabcec090-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/14122773837d8551-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1417ade86c536232-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/14882b6466d80628-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/158a8ee9e7c70351-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/159d3fe2a98e4fbe-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/15b872f6bd82a4f1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/160e39e44413dbb1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/17178aab12110866-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1797863f77400014-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/179cf85605aff31b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/17e6112082291539-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/18094b8ab9ebafd7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/187f5ec04825fb57-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1891963a7a862285-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/18a5c99d629ee613-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/190cab791d03897-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/191d29b3f71ff269-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/19230d958fbdeb96-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/197729e1348a401f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/19a651188babc59e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/19a66dee84437d44-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/19ce680dcfe327b4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/19f7ed823ae482-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1a9491b5b65ad0f2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1b085ed99f302600-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1b78563f55588575-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1b8491a0c9df0c21-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1bb4de395a9b7340-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1c27f78549b1eba4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1c7e56f3bd2a0bef-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1cab47f2eda39d60-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1cb96c08300ec614-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1cd32b5f3981d9bb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1d1cd453d41d9682-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1d7d4d25e54ff1d0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1da5cbc927a54405-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1dcbf217d75a7975-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1de3bdb1259c9b6e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1dfe0ef8cbfd3b23-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1e2dcc4d940635de-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1e8e75f93c7eeb97-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1f0feceb54105a99-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1f65ef1bd1ab74d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1fc32f4d704e968e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/1fe64f504b6427b4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/203fc6daf2ec010b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/206b9feef62c5da6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/20b8f70ddb75331c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/20bba8ab423adc47-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/20c0229f4bb35faa-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2101ca59d6b26317-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/215a6168fa595c5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2175c8281ed6e213-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2228e4f52af253a8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2228f607f26ca88d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2274d05bb786b598-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2280901cc8b4e8de-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/23207e1d6234dc89-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/232fe48b0893cc60-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2354730386d7dbec-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2377b9649504b3c1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/23b336b356d9f32c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/242a1247d270878-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/248896caf8761249-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2494f0cc8d2f6f38-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/24ba7c2236570710-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/252c9f6f5ca21ed0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/256416ae9dcd4b5d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/25687bb4b4795d35-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/256c912eaf0187a0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2584cf6851357bb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/25b3755a11710d60-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2632304174ab2976-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/265313d214976412-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2657adafeb832140-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/26d8c36b2eb4cf5f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/26f06364a79d5c85-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/273d26b65c08ecfe-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/27c65b14be6685bf-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/28065a79327b105b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/282a64007bbaef3e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/284faf14b6c08c98-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/289546b565dcdc15-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/295039b839219f00-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/29ce20391679c595-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2af3cb0bf317e981-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2b672a7ad0d54180-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2b91b89a0bcabc70-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2bfd6d279a5b352f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2c0ba7b8848ee7e0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2c796234314bd438-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2cc1848869559e51-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2cc915edbc258737-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2cf36d04e7ff159-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2d29cf9ec708ca96-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2d482d125da0bc2a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2d7de08a9a7f6352-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2db869d62aebb38d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2e237789d8de40d8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2e3e6e4d7b65527a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2e49878221693832-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2e92fb4997d72a04-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2eabb4b86faa1ef4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2ede0c38ee09fb9b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2ef6fd8fcdd53240-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2efc77bde7b50d38-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2f5f3a4b2fb240dd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2fa884cef5a640ac-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2fe4ed34133c0b1c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/2ff980ae4e3aa991-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/30c6501360c06b4c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/30e59b8f11037c04-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/311c201773885390-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/315f6c68f82f660d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/317a3b44af65bcfb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3232efd2515acdef-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3249e3d23ffb4e42-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3260092d155aea72-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3317cddada46def-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/33533a02ddeb7cf3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/336b1465f22d040c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/336b28d28dcaa9d5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/33d062f3a4df5820-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3497f451d1ac2031-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/349dc718a59c8999-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/34c3b91a3c5fc756-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3530ace33d54e38-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/357d0502f5dfee2d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/35f2468737f319cb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3655ea792eac00c2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/36732c2ead7ff2cb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/367a07def1b7db62-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/36826de8984fb6aa-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/369a07642856db3d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/36ed1174c4e93b8e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/37b1751fcbb36e4a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/37f2ea6aa419d93f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3824cf824fd1e57-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/386ed841980fe83a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/388da15f9f699079-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/393906a7d9d51777-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/397ae8088d2d0c89-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3982ad949faffe4e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/39ef0ffd835c73ba-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3a14e3a1192387ef-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3a15206c7384aa87-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3aaa069288ee439a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3af7c5164787d12f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3afbb98b4e1e3019-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3b6b33b5b3843aa3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3b7a0ee89c55de8d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3b7a4a1e113bb77-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3b8a0c0e18c16c98-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3c148bae453a9ea2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3c9fcba37083de98-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3cb624b8541a96a7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3cfcf9d1cbbd30cd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3d1363ce622a53c7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3d3aa963ce3c95c8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3dbf058540741007-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3dc55af829ae1e4d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3dd19ef81312b1e6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3e08f8a7ad205737-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3e17b1df0cd36df6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3ebb897152995019-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3f5a994bd9095fb6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3f60c7c3ae3b80ad-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3f6e2877a635ea62-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/3f96a4a52360a63-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/401424a0f1a7c8d6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/402f2969099f7254-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4058daa095469127-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4078b09d20c1c560-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4080234bdae0bf16-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/40e794a611fdcab7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/40ff6c242193b590-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4100c153e9d9b369-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/41124b4d3d23eeec-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/411bfd9e10cbdf27-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/41c06ce33d7c57ef-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/41f730bf970b4006-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/41ff10655c1cec8d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/42041937696a7083-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/42177d8205055563-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/42464b550eed290-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/43470ef1f046184f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4396cf8921290716-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/43aaa2aa928acaab-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/43b1ad98af158029-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/43c6231f86f12cf9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4401fca99f040644-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4404c7dda1f2ff30-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/448b74d27ee5f11a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/44ec631ce3bb3adc-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4523575be7d8bb7d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/453351e9dd9a9caf-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/456e525efa8c7d93-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/45b1b684a94defe5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4605be8163c5a9d2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4617b1e4003ce113-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4626171423d6b1f1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4662d68222e55fb7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/46bdef7c8de8b334-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/470a61d868791702-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/474c961ea4ae5e90-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/475d51a263f17ec1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/47870849615941d9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/478f02e7d03084e4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/478fa3d8a18772ea-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/47a6d8eb9f368f16-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/47bfb6abb5a9fd7c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/47cee94fb5ce387c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/47e88a34fdb83430-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/487a77d362012b70-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/48de9b81a34d1872-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/48fc99421bb10c10-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4999c533a25e2d0f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/49ab88335d7ba7f2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/49b78e0883129f14-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/49b8637dba44b049-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4a8f4e76f63c3267-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4afa10b9c8b2d347-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4b5ca7fc3d56d1e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4b722104a8c61d75-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4b7d0eab7fbc8f1c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4bfebc01f345b9e0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4d56594e10ef79e8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4d89b385b5c1894-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4d8a828572b2e321-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4d914a63e7e077c3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4e6cd2b46fd8c2a6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4ec433bcb2220129-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4efec8ca98dd17ab-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4f20bde50c12c348-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4f38e0e0d1de7b43-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4fb43ec887446541-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/4fd047b3960c3d0f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5006672f557d47fb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5058525ccc97a9af-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/50975562823db7d3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/50a1f1bab921eebe-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/514d4743d3d21a8d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5151ab493e99bd06-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5182e7a2c829899c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/533e3c632ce1c17d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5369d534aa719f9c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/538ee1dd8339680d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/53aa5b316eeaf6f5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/53b9e49fa97cbdc2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/540b3bfaccaa350b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/544364bbb801890b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/54c74daf343d60ab-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/54e0724ae85bb3d4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/551995841f349db2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/55694d7176de1aa3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/55c263d53d5b3f34-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/55d5e15206378863-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/560657cb6cfb76d3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/56820f34109557cb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/56b028d1fdeb63a3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5733e51e08f7ddd5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5795ed84d112494f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/579c504ad9284a24-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/57a79dff4f7a7fe0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/584f4d325e39328b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5897a025b998cc3d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5932999aa534a406-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5964f9c4673e3f6b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/59a6fcb049f51099-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/59c4463453f2b11d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/59dff194bec02ec7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5a130778548788bf-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5b30f6566de3b695-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5bad184d6448e0f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5c04c794ee979688-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5c09ac9d941c49ca-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5c0d14da6d73d873-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5c408d55a8fd5e1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5c7e0d57f31d6435-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5c8e16cff20d6095-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5c9719cd61d9aeb7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5cdd6e1c4eea0c99-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5d17140385a3af31-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5dc049e85414a1fd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5dd386c2d67094ef-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5e1710cd8bdd9204-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5e2a42a21ad7768e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5e95e2679403a4c6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5ea9a0ccc31a5f83-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/5fd88372ce522054-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6011c8d8f5ef31bb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/60e0c1d3b0522055-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6194a26c59e026f7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/619bdf48fd7864bb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/61b6284d884ac859-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/61d8bbd35e160197-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/626db2f0f2e4812a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/627b410dcca86d82-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/628674fe0e368d0c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/62cfc561f8ca89ab-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/62ee9ea812dbcc56-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6331c1b0a74b5a9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/634b106d5ba5b8af-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/63582b619ecc457b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/636567df96b3833c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6374ca7d4177de34-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/640fae5d159b80a8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/642cb621d89d3f25-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/64f84ea0fe544b8a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/65b67e29e7f131da-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/66bb7cbdb8494900-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/66cad8fe986f94-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6732e7fad118e15-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/675d249eb7847033-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/67f1c9b4ba809a82-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/685b92d930e3b2d6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/68aeeaf031095d36-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/68be116b0b73120e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/68fca468d33b0284-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6915a9d6c330b785-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/69349f366f8e3c14-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6a1ad421e2e9c862-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6a74acfccb9d2c87-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6a908dc632b5eb0c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6ab3a3030b9b7c75-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6af01194752ee95b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6b0576905b573073-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6b636b188de72645-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6b732a10f427a948-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6b7f4651bc62efd3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6ba64b5ea7b55ca5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6bdd288d2ff3f067-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6befbdc36a8eca7a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6c139ca924d1281d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6c7a06edfdc2174a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6c8d8b4851d04aa2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6ca52ea912fb65b3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6cc5530ac00c7457-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6cf7f78c2fd37537-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6d0615d1e4efbe09-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6dc53fe49e5e6a51-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6dcd0c05ba2f4f21-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6dede7aae8585c03-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6e056fe4e1a3df3f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6ea9536773a20640-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6f02d8f1b14791cd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6f31fe247f19eda7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6fe3b208f50246c1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/6ff84267dd45aad0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/70139dfefc7d5328-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/701964405784dc26-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/70234d7a855bef80-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7042d08cf0799258-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/704ce3dc5d55656c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/70502f7bae3d4bb0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/70657d8b83d1dc0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/70853c08c579e663-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/70a4ee0c5dc89dde-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/71020446413c8070-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/71087c60b9690d09-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7114ac8aa3c52a86-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/714c36797ee536a2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7151cc991dc0a74a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7158baa7f6e0ade7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/71e8b6419db1a041-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7200ef3974c99bd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/72439699723e8d66-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/728ad438f83333e6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7298bb29188cf9c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7298c7617e670edc-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/739458772a95c185-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/739ae18a3f705dc4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/74873bce5864d9bd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/74f33b891ead8361-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7666675743948024-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/76d634682ab237a3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7743d7cd84cd9c52-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/775224ed578aef56-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/77569f4a87b1404b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/775bde4a10ed98a6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7774d52a0936ea7d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7781c446ab164bc9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/778d2531fd02f5bc-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/77a3cd0a3c1ed3b2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/77b1953aace3f9f9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/77e3880ee2828cb7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/77f0b74ed18124be-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7825afc54b8e80d3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/79d91a14fee49bbd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/79e3eb3e77ef9378-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7a1ee762cbe3baaa-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7a8e85e94581c9d2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7aabe963928235d4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7afa1f6f02164b39-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7b127dfb07ec9e26-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7b795ba6e36c841b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7b94b8931a387d90-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7bc62ad1ed93e1ff-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7c26241ae6492079-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7ca0bca7f8b6b33a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7d4f7a6224976d7a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7d9847dd056343a2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7de2c1984776e02f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7e068c5b840068d1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7e55f4953a886117-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7e63ab98134e4a37-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7e9d723e4d0d656-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7e9ee6ba8dc86912-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7f7b36e8b625693e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7f95d9d1834f62ae-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7f97c9dd3830cdd4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7fa89633d677ed19-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/7ff875539d31d631-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/803ec6d5b6da18f1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8040fe76b47c2bd4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/80b282f5bf517f30-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8114c5403e5661ab-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/814e1d8298711201-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/81bccb125837753f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/81cd67a01d08ddf8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/81cfa9f24c469cb5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/81f40b52e2e0e038-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/82fccddbef95884b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8308d3980bffeb8b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/832c0d7679c5056f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8377e9389afc5bb2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/83c06dab82e331b2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/83e70ee3f84da5b7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/844b33ab1cd96182-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/84c9d550710c98ad-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/84e2971b456f706e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8519debc758fcb53-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8576b40491da221e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/85874707e8317e17-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/85c38380819d32fd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/86158a824c709105-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/86caf9c3f96465bf-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/86d74431d0c0f760-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/874dda49977eba5c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/876df5a24bbc774e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/879ddfc886be8263-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/87e7a65444d97bda-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/87ea88a2bba3d9c7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/88644af3bada47f9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/887125b2827837d0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/887ba6465e0a6e42-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/88a1a17306cbed78-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/89066d4fe87fd49-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/89257307da65e385-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/89314070c49bb2f4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/89f803982b705c45-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8a02f5c9929d6a7d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8a1543b23e23e3d2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8a3f5f5f8152dde4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8a4eb39a4cb70f52-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8af0ae1a74f2806a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8b1921654514f062-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8b43454a1f4271cd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8b5880d169a4ddd0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8c5a82d9a556fc4e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8d0a75c46dd6c38f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8d46763f28d764a9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8dde4d89b0b192be-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8e912120e2ac139d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8e98546b3a68c532-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8eb48c4e56771f62-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8ed8938dac5b2e65-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8f763b26260af866-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8f77ad3a395b7d6c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8f7fe76f50eef264-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8fa68592e3151ed4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8fb1ed77386b35f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/8ff769170204f12a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/90386096469db6ec-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/90a65426adde7489-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/90e632b9df76edf9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/90f90b959cef439b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/914cd4d6f912b2a5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/91650cdb6c3639ca-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/91f471c3556de0d9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/92a1c4380cb70ac2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/92fb4cdb6ce7a271-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/930ff1007f39313-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/931c202ad2ef0d09-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/931ca138b2c72d00-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/93cc169d90ddb98e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/94011b2bd8545c0e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/942d030f2234a931-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/94fa1e66df063355-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/95391fb6bd42e2f8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/953caa73ebfa0a27-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/95626ee8dbc73799-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/956e20eb77d655a2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/956eb521d139fad4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/95bc8511445dfcdb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/95fcb5d7dce9dd98-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/962107c18f62ad94-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/963e9265c19c1234-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/96424fefcd7da22f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/96a26662bc90c1a6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/96e9617d08ac1e27-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/974d7bcf1bd9e1fc-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9768cbc6814ab11f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/97dabf2391d1a0a5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9806c6edb3c2e931-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9866ceb40ebb2745-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/99b80d968b20b86-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9a3f875726c04451-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9a538e6e29f60e99-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9ae1dcc495acacf-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9b52afeb7c234f55-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9b783a1777589752-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9b7a37e5f587acb1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9c4173ada4c5ac8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9c8eb5d24713f748-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9d2ca9c2fc679e51-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9da511b6978f4f36-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9db228b5dded8bf2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9f040c13ffc1c206-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9f3e3bd9ce38a618-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9f7909827b3d2d93-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9f84ea4d779f517b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9fcadf71d7a40e45-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/9ff6e2af389732c2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a00da819799cbd9a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a0412d599d1e0409-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a095b7c719f1c167-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a0a7e507b83ccf87-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a0d608052414ff6f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a0d62586660789d6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a0ebae719d232650-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a137f1b8137ce85f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a14d40cc385da375-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a1be73d3c291d70e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a1fca68aec2d0498-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a21ad084994f1072-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a26df9f7474ad178-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a281dded0bb04d30-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a2992dddafd1bf0d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a29abafc02f96ca-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a2d0cc13be84b3cc-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a2d0df98c80cdd99-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a3782b12bfcdaa85-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a3cb9b9dfa9b0241-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a400b2209e931274-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a42661bf5b23f91f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a4d8910e27d68157-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a51247385fea6539-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a519d2c1c85895db-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a5674cb342676b05-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a5ac3b6d2adb5b91-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a5ca43e250a8e8a3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a661b9e0e062daa5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a685d7b1ccb25ab9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a68b17855219566a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a6ce8e0349682102-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a6f8b9cc43605c38-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a758a76359602398-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a7639cc286e9327e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a7a0c448d694dbbe-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a7f6de5eed9be187-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a80ca27a4ffac50f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a84e64525fb193bf-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a85f12323403ab8f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a8cb7f1dbd0a8091-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a8ec10c6a7809b46-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a919eb2ea1445072-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a95a49d8892bcc2e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a95db480969e0dd4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/a99e48c9a140469e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/aac8200cca29bb37-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/aaea4ea12092d087-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ab1bb591e3e70254-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ab2b2e8d9fc3e44f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ab90cbe0e7c9a715-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/abf668337a54080e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ac1e18e7cd97315a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ac838e6b3a24385c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ad3a7af06a036f0f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ad969c2091fa7746-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ae31adb586346890-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ae6a4653d0d75726-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/aedaa56d53f7ca86-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/aee302398f758018-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/aef4f855c6e01a64-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/af70f9867353adda-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/afd2eb59dfa425f2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b00d7f9e38c01834-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b079f73701b77f9e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b0dfdc82c9bf874b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b0e30a280bde4773-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b0e540011ba3e4a5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b0f235239da35399-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b152c12c4877586a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b169751b6ceaadfa-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b18c5b3b3a6fbd01-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b1a421ed776a2fa6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b1acf8790da1f122-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b229d17e9012f920-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b28910f0d2f396e8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b30f7512896d31b3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b35427478a978518-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b4168799ebc28cb8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b5673e3bdc8471b9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b604e8253369c96f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b6ab7f4f5461167a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b6ebafd1e1ff4711-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b74578e2bbb04642-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b75228be296489f3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b7c188fd5e2d8c47-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b7d6460e5de7ed64-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b8234fe05c7ec234-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b838bc8e136b7efd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b8391b0e3ad41702-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b842e69bd9edce4f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b848e6505c85a2a4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b85b475b7cc57861-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b86b6870303bc3e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b891dec4ef96c7e1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b92ca7729bfad4b5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b930228464ea5835-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b93ca28d3bc1891c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b95583277074e3b8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b98df655050caf79-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b9b378cef4786303-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/b9db3d0a6ddd49c2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ba5133d321e0e48f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ba7f519990e1aed0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/baaf00038b4aede1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bb8893005daa4c3f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bbb71ba0b307ddab-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bbc806ba72232e71-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bbcee7a2c5753d86-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bc538debac930889-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bc757d1e0f98bcb4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bcdf4151eeabb8da-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bd0a799713eee88a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bd4c33f3c9da94aa-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bd817d0ce234a72c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bd90897de7e5e4c6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bdd00546f7cc43c8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/be1a5af7b70e8a2a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bea3e27c1f5f0bd9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/behaviors.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/bf0ab0d7cbde395e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c009812cf7061dc9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c030e29b571658ad-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c0b0a841c2ae8f1a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c1762888543e1f16-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c191d91d6bc0a29a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c1b0785c9d0898d2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c1f0a327c808c958-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c1fc6c12c514db5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c2776477d74bdd8a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c28a3eaf4fd5ef64-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c2e3943f5f36f423-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c3155d2e01588fbe-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c383d32ab41e7e9c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c388f7cf3729ef3c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c416dddcdfbfa156-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c4277e2aa8f68203-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c4b0117eece3af3e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c4e1902b0214489a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c4fd79eaea2084ed-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c50e99c7b26692ed-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c513d8af6759edda-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c553f22babbb1460-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c5fd08dd6015458b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c600903b2e528a17-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c601f005507505aa-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c604095a800049d7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c61a9629893a1c9c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c6319b89df9de749-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c68281231d916d1d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c74fdc26642d534f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c75962284b0c8bb2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c7b7d0ba13fcff92-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c7f647572dd54ffb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c8209528f2201f7e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c846af12ec47df7d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c84bae221e1b956d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c85dfc531e41ce9a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c863345b154174b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c8903222fcaf8abc-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c8a43db84fc1d14b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c933176d16d993ac-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c982546525932770-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c9b3245bda820b09-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c9d0db0749888a33-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/c9dc7ca5b48abfe9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ca5f169226cdd5b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ca8fe4a5d4bf540-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ca92090ba5affdc2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/caadc3161604996c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cb8ccafcdb87df71-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cbc4f98dee9cbfa7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cbd154c470ca06f8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cbd40a3da2f62a6a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cbded153d11af048-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cc29a90a6f16632e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cc48620cc873e149-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cc50476158fd5934-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cd30f8aa95a64f2f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cd4d1c144957de01-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cd8ccd8951b5c183-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ce3e05955b4a996f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ce455f72cb255aa-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ce82e1011af391ca-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cf07c52109eabcf-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cf0b74dbe2669adb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cf801faae176d95-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cf96d3353d7ecbc7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cfa3d3455c5fce6d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/cfd3e8d6aaccb409-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d03dc237655ce544-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d06370ae79da21bc-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d0761c422bf1f644-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d08302e928363c9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d14f9fd35cdc1ff1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d19c96e402273b88-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d22002e7d2bd8631-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d2229a37a19f1468-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d22362b7eeed8a29-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d268daaaa00c84a6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d28520bfc93d293e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d31e63dd3d4f33b8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d32b554e079592c5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d339530568c4d484-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d3810aff7c0e65b4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d3f8e1f0e02a9ec9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d40392b829824db-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d455bfdf82289f6b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d47a6b2ba7b49846-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d4c0da25776713c4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d4d70059404cc1dd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d4eb51acaecb5658-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d502d7103b72bbbc-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d506dfb4c2da3689-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d5898ccf9ccff631-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d5a18e43c4b67a44-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d5b83a44629a130b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d6555e4f97d7456-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d6892ac9694b397d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d6be879ef90a2f18-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d6ffc9399e5edea4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d70292b15590bfb1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d710bf13a868987e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d72671b7f2ef3c8a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d770a4de2b251043-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d772543c51905b77-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d7a53ec37d42595d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d8030a2f28940d4a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d80b3b4334faeda6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d8300dde3d5c5cfa-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d8391cdcd2878f2e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d944ef3ee2ad9b55-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d979fe748754f486-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d98cfa3f2249920-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/d9ea0bdfea5219f5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/da1c02f571a107c7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/da1dd4b46ec75d51-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/daac5f722b9e6d2f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dab11745c76255c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dad0c7a3ec8bb6d1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/db1fa633874678da-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/db37906b0b072fa5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/db5fe3c9e99bcf26-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/db9314c419a4129e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dbbba1ae3eab0469-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dbcc00c7ce2cb9ce-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dbd46ac53610f769-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dbdf6cdb35142d2d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dbebc98e22747829-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dbffe90e2dc756b2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dc0a2ea6359e0ff0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dc1a1f54eb337ef7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dc1c641ced7c175f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dc5f0483f863840e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dca0c2beb6293cc1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dcab7530859f397-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dcef5780e69453ad-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dd45e803a899580-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dd557b0a1050e342-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dd68ea2dd64c2066-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dd6a6002dc52bd05-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dd7131e26be4d062-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dd724f4e543765f8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ddba4fce679e8b32-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ddd628252ebc53bc-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/de1aad9863cff540-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/de2479a13d292cea-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/de6e3093c5c67804-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/de9f5d959bb662d2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/deeaf427b1db6059-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/defects.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/df379a9edddb4f9b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/df8f3ea3296bbb57-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/dfa3761c51864cd7-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e01698d2f25aa3ec-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e07fb9e8b068a08e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e0c2c4c6fc977a01-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e0daa6b8052e16fb-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e144ec638e5fc113-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e1995736754fecc6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e1c41af31503c5c3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e297b6551be7d0f0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e33abcee280e9a07-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e36827efaf5c46a1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e3a0e41288aebdec-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e3c63df4c7ee9def-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e3e6420e8879688c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e4018fcd5f7f3fa4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e4a42f2614e9196c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e4c17fb79f47a3a9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e51dfe517cf769d3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e5374b41721060c4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e5630c78142f6f17-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e57bf30f4c0601c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e614b8b4378f628-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e618876506498a8a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e63a33556fafc421-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e6a9c10ae9fd3af0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e6b95ff1614614e5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e6ec394b706307fe-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e73f1ce6633131cf-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e75cc7e884e5f05c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e79dd0cacc29dc44-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e7b2f13ccbc63215-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e7bce63ac190c1be-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e7bf0aac34793b1a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e81cb9e30eff79d1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e84a7a0db3a4d9dd-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e8692880da6502d9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e91c5e0b51f53ba4-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e9df19827c2e2e70-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/e9fa0f7eea1d1754-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ea1062bb76689fec-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ea28e1a6761a05dc-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ea326a6dde81d911-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ea3dee6749c9495a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ea4e9d548fd6c906-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/eb2244139c0ec3ba-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/eb6a3b1e826f5d7c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/eba60a165894d190-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ebbee97c41836148-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ec23645f2646a473-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ec3070cb2628d150-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ec8561a0d2344e46-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/eca4e1fc5c82da78-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ecbd88f5768adf43-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/eccab766f2dc8a5a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ed1c9f4d312da167-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ed2c41e656b4bfe-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ed5973f2b46e733e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ed6bf72455159850-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ed8f6a4c9c79f560-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/edb584ecc427b04b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/edfac3f0ac898cef-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/edfd168bd7e0a760-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ee003c13a8eb9e89-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ee0b0c669d1af859-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ee0d83984217d552-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ee4ae5ca983754a1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ee5ed72dc914c705-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ee92357d72d2af9c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/eeecaf2667a984af-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/efbc78d93f3c2a63-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/efd932299af931a3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/environment.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f04703f8ca83439b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f04809ba04fd3d9c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f0630e504599542c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f06cebf730cd77a5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f0c5a69403cc0172-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f11ea00af731a39-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f1b2af44e28c3266-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f1ba33faf096262c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f1e2747c7a73a330-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f231b6563827a5b1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f257ad5928328c5f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f2a442feaefb85d2-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f3174fff05122935-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f35c99e881bf9a88-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f3f0452789a4f0e8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f428d7553bdd44b3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f466f5d4f71aa4f5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f46d264214485615-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f4bdbf346b6afd28-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f51423ac64fce9f0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f559719e03e8e961-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f628fb27a69a00f3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f64caf986b6f7fd6-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f674d9fcaa08e3ae-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f6881e3073abef0f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f6ad33ae8eae6d92-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f738ddb3fef40721-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f77242e56522fc96-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f7a8ef5f5756398d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f7a9deb0abf42f8e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f7cd565e6a3b5886-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f7da23aa4289386-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f858fa7a880cdc18-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f8be86455dede0a0-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f8d5ff6fe7055e1d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f8ee82d06f644cb5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f8fae8eb1c7622ed-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f8fbd8e290d2effa-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f908bd0209790935-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f9184a38c830f380-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f9710a9463d0ca0d-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/f99cb98008370e5b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fa2afc2af41d5a4c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fa3f315aa061225e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fa579824cb62047-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/faa03c1263e6fd5a-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fac85376412a9dee-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fafa020b4aa9befc-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fb60cd2bfc871c8f-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fb8e6d49747be01b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fc7eef2a8c0e5f89-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fccbd471172534d8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fdc9ebdcebe84a60-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fdef4b5acfd714a5-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fdf9553528ee5b6c-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/feb2bfed14f2bf4b-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/feca11e38348bcc3-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fefce333d701ad1-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/fefd704bb1c400a9-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ff2f3920ca65ff82-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ffd81a4a07d9a1d8-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/ffed11fec072986e-testcase.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/graph.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/plugins.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/report.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/timeline.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/total.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/widgets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/data/xunit.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/e6cf7c6ec7c2d6f670ae9d762604cb0b.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/f8ddfbfcb1a4e191ee1fa7f98417280e.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/fa4b5e31eae6378a0dfa9e10cfb9262f.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-report/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-results/06234c8b-96f8-4e1d-9ca5-2b42528b7cc7-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/allure-results/e10c7eee-9c24-4de9-8de9-8c34d328e944-testsuite.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/engine/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/main/engine/calculator/Calculator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/java/test/engine/calculator/CalculatorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/engine.calculator.CalculatorTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/engine.calculator.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-engine.calculator.CalculatorTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/fileContent/fileContent.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0.2/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.0.2/fileContent/fileContent.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/poc-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/build/libs/poc-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="poc" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="poc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="poc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="poc" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.5" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="poc" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="poc" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'poc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'poc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'poc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'poc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'poc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'poc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="allureReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'poc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'poc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'poc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4512808402000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3071920793" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1061797022" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.d10xa/gradle-allure-plugin/0.5.2/1846c7189d909c1a619b10d32563c4196bb5ed4c/gradle-allure-plugin-0.5.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.d10xa/gradle-allure-plugin/0.5.2/704b903b666a9e8573687b1876c8c3f33219449f/gradle-allure-plugin-0.5.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="poc" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-base-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-base-services-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-cli-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-core-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-docs-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-installation-beacon-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-jvm-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-launcher-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-logging-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-messaging-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-model-core-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-model-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-open-api-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-process-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-resources-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-runtime-api-info-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-script-kotlin-0.8.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-tooling-api-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-ui-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-version-info-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-wrapper-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/groovy-all-2.4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-announce-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-antlr-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-build-cache-http-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-build-comparison-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-build-init-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-code-quality-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-composite-builds-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-dependency-management-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-diagnostics-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ear-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ide-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ide-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ide-play-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ivy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-jacoco-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-javascript-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-jetty-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-java-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-scala-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-maven-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-osgi-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-base-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-play-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-plugin-development-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-plugin-use-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-plugins-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-publish-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-reporting-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-resources-http-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-resources-s3-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-resources-sftp-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-scala-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-signing-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-test-kit-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-testing-base-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-testing-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-testing-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-tooling-api-builders-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-workers-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="poc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="poc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.poc [test]">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="poc [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.poc [test]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec582a79-1c97-4e93-b66a-1d0a416914a5" name="Default" comment="" />
+      <created>1504443886085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504443886085</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="poc_[test] - 2017.09.03 at 15h 06m 01s.xml">
+      <configuration name="poc [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

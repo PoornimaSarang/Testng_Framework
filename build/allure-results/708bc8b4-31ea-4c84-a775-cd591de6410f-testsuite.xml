@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1504443914177" stop="1504443961566" version="1.4.24.RC2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Gradle suite : Gradle test</name>
+    <title>Gradle suite : Gradle test</title>
+    <test-cases>
+        <test-case start="1504443924500" stop="1504443924516" status="passed">
+            <name>addTest[1,2,3]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Poornis-Mac-pro.local"/>
+                <label name="thread" value="707@Poornis-Mac-pro.local.Test worker(11)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504443934670" stop="1504443934671" status="passed">
+            <name>addTest[4,6,10]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Poornis-Mac-pro.local"/>
+                <label name="thread" value="707@Poornis-Mac-pro.local.Test worker(11)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504443944823" stop="1504443944824" status="passed">
+            <name>addTest[7,10,17]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Poornis-Mac-pro.local"/>
+                <label name="thread" value="707@Poornis-Mac-pro.local.Test worker(11)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504443954970" stop="1504443954971" status="passed">
+            <name>addTest[1,2,3]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Poornis-Mac-pro.local"/>
+                <label name="thread" value="707@Poornis-Mac-pro.local.Test worker(11)"/>
+            </labels>
+        </test-case>
+        <test-case start="1504443914177" stop="1504443961561" status="broken">
+            <name>Gradle suite : Gradle test</name>
+            <title>Gradle suite : Gradle test</title>
+            <failure>
+                <message>Test suite was interrupted, some test cases may be lost</message>
+            </failure>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
