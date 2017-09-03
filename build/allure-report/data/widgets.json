@@ -1,0 +1,64 @@
+{
+  "hash" : "e7105c43ada45c9f6e0006854ef1a1d95249231d",
+  "plugins" : {
+    "total" : {
+      "statistic" : {
+        "total" : 471,
+        "passed" : 468,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 3,
+        "broken" : 0
+      },
+      "time" : {
+        "start" : 1504455335510,
+        "stop" : 1504455336231,
+        "duration" : 721
+      }
+    },
+    "defects" : {
+      "totalCount" : 2,
+      "items" : [ {
+        "count" : 2,
+        "uid" : "781cab04bd8cbddf",
+        "message" : "AssertionError: expected [17] but found [1]",
+        "status" : "FAILED"
+      }, {
+        "count" : 1,
+        "uid" : "adc6ad64aa9bb649",
+        "message" : "AssertionError: expected [17] but found [18]",
+        "status" : "FAILED"
+      } ]
+    },
+    "xunit" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "uid" : "56ca047af68e6b50",
+        "title" : "Gradle suite",
+        "statistic" : {
+          "total" : 471,
+          "passed" : 468,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 3,
+          "broken" : 0
+        }
+      } ]
+    },
+    "behaviors" : {
+      "totalCount" : 1,
+      "items" : [ {
+        "title" : "Gradle test",
+        "statistic" : {
+          "total" : 471,
+          "passed" : 468,
+          "pending" : 0,
+          "canceled" : 0,
+          "failed" : 3,
+          "broken" : 0
+        }
+      } ]
+    },
+    "environment" : [ ]
+  }
+}

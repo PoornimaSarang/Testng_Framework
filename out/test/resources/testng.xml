@@ -7,7 +7,7 @@
             <run>
 
                 <include name="smoke" />
-                <include name="smoke1" />
+                <!--<include name="smoke1" />-->
 
             </run>
 

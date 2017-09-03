@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/poc.iml" filepath="$PROJECT_DIR$/poc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poc.iml" filepath="$PROJECT_DIR$/.idea/modules/poc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/poc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/poc_main.iml" group="poc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/poc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/poc_test.iml" group="poc" />
     </modules>

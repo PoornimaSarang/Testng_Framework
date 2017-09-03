@@ -1,7 +1,6 @@
 buildscript {
     repositories {
         jcenter()
-        mavenCentral()
     }
     dependencies {
         classpath "ru.d10xa:gradle-allure-plugin:0.5.2"
@@ -19,14 +18,26 @@ sourceCompatibility = 1.8
 repositories {
     mavenCentral()
 }
+configurations {
+    agent
+}
 
 allure {
-    aspectjweaver = true
-    testNG = true
+    allureResultsDir = "$buildDir/allure-results"
+    allureReportDir = "$buildDir/allure-report"
+
+    allureVersion = "1.4.24.RC3"
+    aspectjVersion = "1.8.9"
 }
 
 dependencies {
+    agent "org.aspectj:aspectjweaver:1.8.0"
+    testCompile "ru.yandex.qatools.allure:allure-testng-adaptor:1.4.0"
     testCompile 'org.testng:testng:6.8'
+}
+
+test.doFirst {
+    jvmArgs "-javaagent:${configurations.agent.singleFile}"
 }
 
 test {
@@ -34,6 +45,4 @@ test {
         includeGroups 'smoke','smoke1'
     }
     ignoreFailures = true
-//    include '**/*Test*.*'
-//    testLogging.showStandardStreams = true
 }
